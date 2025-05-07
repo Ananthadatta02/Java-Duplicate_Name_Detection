@@ -1,7 +1,3 @@
-
-
-
-
 # Duplicate Name Finder
 
 ## Overview
